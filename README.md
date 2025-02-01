@@ -1,4 +1,5 @@
 Project Overview
+
 This project is a web-based quiz application built using React.js with Vite as the build tool and Tailwind CSS for styling. The application fetches quiz data from a provided API endpoint and displays it in an interactive and engaging user interface. If the API fails, the application gracefully falls back to mock data to ensure a seamless user experience.
 
 Technologies Used
